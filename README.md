@@ -4,8 +4,9 @@ this is a simple python program that generates a random password of any length w
 ************
 
 - user inputs are : (case insensitive) 
-    R : to re-generate a password with previously defined length 
-    N : to generate a password with a new length
+
+    R : to re-generate a password with previously defined length ,
+    N : to generate a password with a new length ,
     
     C : to end program at any stage when passed as input 
     
